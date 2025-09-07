@@ -1,3 +1,5 @@
 {
-  "version": "1.0.3"
+  "version": "1.0.3",
+  "releaseDate": "2025-09-06",
+  "notes": "Corrección de errores y mejoras de rendimiento"
 }
